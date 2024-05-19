@@ -1,8 +1,8 @@
-# Transport Database System
+# Transport Database Management System
 
 ## Introduction
 
-The Transport Database System is a project conducted using Oracle DBMS. This system is designed to manage and maintain data related to transportation operations, including vehicles, routes, schedules, and passenger information. The primary goal of this project is to streamline transport operations and improve data management efficiency.
+The Transport Database Management System is a project conducted using Oracle DBMS. This system is designed to manage and maintain data related to transportation operations, including vehicles, routes, schedules, and passenger information. The primary goal of this project is to streamline transport operations and improve data management efficiency.
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ This project involves the design and implementation of a database system that ca
 
 ## Installation and Setup
 
-To set up the Transport Database System, follow the steps below:
+To set up the Transport Database Management System, follow the steps below:
 
 1. **Clone the Repository:**
 
